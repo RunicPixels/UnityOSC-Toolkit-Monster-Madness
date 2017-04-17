@@ -4,6 +4,7 @@ Made for the HKU ECT as a Seminar Project called "Building Playful Interactions 
 
 # Project Content #
 This project was made with Unity.
+
 ◈ Isadora was used to control the surrounding lights, sounds and ambience.
 
 ◈ Motion traced gloves have been used to control the playable monsters fists in the game.
