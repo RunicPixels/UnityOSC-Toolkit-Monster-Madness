@@ -33,7 +33,7 @@ Ronald van Egdom : Main Developer.
 ## Credits ##
 Aaron Oostdijk : One of the creators of the toolkit, helped with complications and some programming.
 
-Machiel Veltkamp : Helped us with using Isadora and general feedback.
+Machiel Veltkamp : Helped with using Isadora and general feedback.
 
 Bas Klein : Helped a lot with programming.
 
