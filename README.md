@@ -44,5 +44,5 @@ Link to our Design Document: https://docs.google.com/document/d/1vavnixJ-sNE1fyn
 Link to the original OSC-Toolkit we used: https://github.com/hku-ect/UnityOSCToolkit
 
 
-Link to our trailer : https://www.youtube.com/watch?v=9tVrlyX7xg4
+Link to our trailer : https://www.youtube.com/watch?v=7B8oQTKkWtM&t
 
