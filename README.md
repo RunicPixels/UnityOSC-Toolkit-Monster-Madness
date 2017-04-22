@@ -33,6 +33,8 @@ Ronald van Egdom : Main Developer.
 ## Credits ##
 Aaron Oostdijk : One of the creators of the toolkit, helped with complications and some programming.
 
+Machiel Veltkamp : Helped us with using Isadora and general feedback.
+
 Bas Klein : Helped a lot with programming.
 
 # Links #
@@ -42,5 +44,5 @@ Link to our Design Document: https://docs.google.com/document/d/1vavnixJ-sNE1fyn
 Link to the original OSC-Toolkit we used: https://github.com/hku-ect/UnityOSCToolkit
 
 
-Link to our trailer : [HERMAN VOEG HIER TRAILER TOE S.V.P.]
+Link to our trailer : https://www.youtube.com/watch?v=9tVrlyX7xg4
 
